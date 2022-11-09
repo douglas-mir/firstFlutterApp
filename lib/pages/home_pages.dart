@@ -29,6 +29,7 @@ class _HomePageState extends State<HomePage> {
                 child: Text('D'),
               ),
             ),
+            ElevatedButton(onPressed: (() {}), child: Text('Rogeria Page')),
             ListTile(
               title: const Text('Item 1'),
               trailing: const Icon(Icons.arrow_forward),
